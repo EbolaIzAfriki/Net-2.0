@@ -16,6 +16,7 @@ namespace Net_2._0
         //но все же соси
         public Form1()
         {
+        //сосать или не сосать вот в чом вопрос
             InitializeComponent();
         }
     }
