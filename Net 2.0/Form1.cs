@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Net_2._0
 {
+//не соси
     public partial class Form1 : Form
     {
         public Form1()
