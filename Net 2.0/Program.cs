@@ -17,6 +17,8 @@ namespace Net_2._0
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            // леша собака сутулаая
+            // Гитхаб параша
         }
     }
 }
